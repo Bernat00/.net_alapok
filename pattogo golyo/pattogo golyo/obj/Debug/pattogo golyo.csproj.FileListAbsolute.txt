@@ -1,0 +1,7 @@
+C:\Users\szabo.bernat\OneDrive - BMSZC Bolyai János Műszaki Technikum és Kollégium\app_progr\5. óra\ora\pattogo golyo\pattogo golyo\bin\Debug\pattogo golyo.exe.config
+C:\Users\szabo.bernat\OneDrive - BMSZC Bolyai János Műszaki Technikum és Kollégium\app_progr\5. óra\ora\pattogo golyo\pattogo golyo\bin\Debug\pattogo golyo.exe
+C:\Users\szabo.bernat\OneDrive - BMSZC Bolyai János Műszaki Technikum és Kollégium\app_progr\5. óra\ora\pattogo golyo\pattogo golyo\bin\Debug\pattogo golyo.pdb
+C:\Users\szabo.bernat\OneDrive - BMSZC Bolyai János Műszaki Technikum és Kollégium\app_progr\5. óra\ora\pattogo golyo\pattogo golyo\obj\Debug\pattogo golyo.csproj.AssemblyReference.cache
+C:\Users\szabo.bernat\OneDrive - BMSZC Bolyai János Műszaki Technikum és Kollégium\app_progr\5. óra\ora\pattogo golyo\pattogo golyo\obj\Debug\pattogo golyo.csproj.CoreCompileInputs.cache
+C:\Users\szabo.bernat\OneDrive - BMSZC Bolyai János Műszaki Technikum és Kollégium\app_progr\5. óra\ora\pattogo golyo\pattogo golyo\obj\Debug\pattogo golyo.exe
+C:\Users\szabo.bernat\OneDrive - BMSZC Bolyai János Műszaki Technikum és Kollégium\app_progr\5. óra\ora\pattogo golyo\pattogo golyo\obj\Debug\pattogo golyo.pdb
